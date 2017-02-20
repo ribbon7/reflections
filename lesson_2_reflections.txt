@@ -19,6 +19,8 @@ To test out an entire new path, add an exp feature. Easier than jumping around t
 
 How do the diagrams help you visualize the branch structure?
 
+Show you when branches were created to know where the commits were no longer linear. Also easier to see parents.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
