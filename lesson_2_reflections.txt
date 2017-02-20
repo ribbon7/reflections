@@ -24,5 +24,7 @@ Show you when branches were created to know where the commits were no longer lin
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Creates a new commit on the checked out branch of the two branches merged to one. We represent it that way to tell how commits from each branch were put together.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
