@@ -28,3 +28,5 @@ Creates a new commit on the checked out branch of the two branches merged to one
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+auto merging is quick, and easy, but doesn't always work. manual has more control but is more work.
