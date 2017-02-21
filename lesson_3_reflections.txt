@@ -30,4 +30,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    In a production environment or a collaboration, different branches allow you 
+    to keep the production code clean, and keep your code changes seperate from 
+    other team members until it's time to share.
